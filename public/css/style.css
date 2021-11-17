@@ -1,0 +1,14 @@
+.text-center {
+     text-align: center;
+ }
+
+ .display-inline {
+    display: inline-block;
+    text-align: left;
+ }
+
+h1, h2, a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
